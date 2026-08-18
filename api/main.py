@@ -230,9 +230,3 @@ def predict(data: PredictionRequest):
         "top_predictions": disease_scores[:3],
         "report": report,
     }
-
-    "top_predictions": disease_scores[:3],
-
-    "report": report
-
-}}
