@@ -235,4 +235,4 @@ def predict(data: PredictionRequest):
 
     "report": report
 
-}
+}}
