@@ -1,0 +1,43 @@
+Disease,Category,Severity
+Malaria,Infectious,High
+Typhoid Fever,Infectious,High
+Cholera,Infectious,Critical
+Tuberculosis,Infectious,High
+COVID-19,Infectious,High
+Influenza,Infectious,Medium
+Common Cold,Respiratory,Low
+Pneumonia,Respiratory,Critical
+Dengue Fever,Infectious,High
+Yellow Fever,Infectious,Critical
+Ebola Virus Disease,Infectious,Critical
+Marburg Virus Disease,Infectious,Critical
+Hepatitis A,Infectious,Medium
+Hepatitis B,Infectious,High
+Hepatitis C,Infectious,High
+HIV/AIDS,Infectious,High
+Meningitis,Neurological,Critical
+Measles,Infectious,Medium
+Chickenpox,Infectious,Low
+Asthma,Respiratory,Medium
+Bronchitis,Respiratory,Medium
+Sinusitis,Respiratory,Low
+Gastritis,Digestive,Low
+Peptic Ulcer,Digestive,Medium
+Food Poisoning,Digestive,Medium
+Appendicitis,Digestive,Critical
+Gastroenteritis,Digestive,Medium
+Hypertension,Cardiovascular,Medium
+Heart Failure,Cardiovascular,Critical
+Diabetes Mellitus,Endocrine,Medium
+Hyperthyroidism,Endocrine,Medium
+Hypothyroidism,Endocrine,Medium
+Migraine,Neurological,Low
+Stroke,Neurological,Critical
+Epilepsy,Neurological,High
+Eczema,Skin,Low
+Psoriasis,Skin,Low
+Scabies,Skin,Low
+Urinary Tract Infection,Urinary,Medium
+Kidney Stones,Urinary,High
+Depression,Mental Health,Medium
+Anxiety Disorder,Mental Health,Medium
